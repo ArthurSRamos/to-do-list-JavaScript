@@ -1,2 +1,2 @@
 # to-do-list-JavaScript
-to-do-list-HTML-CSS-JAVASCRIPT
+to-do-list with HTML-CSS-JAVASCRIPT
